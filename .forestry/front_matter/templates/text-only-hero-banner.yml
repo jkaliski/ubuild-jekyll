@@ -1,6 +1,7 @@
 ---
 label: text-only-hero-banner
 hide_body: false
+display_field: heading
 fields:
 - type: text
   hidden: true
