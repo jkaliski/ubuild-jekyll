@@ -70,7 +70,7 @@ page_sections:
   content: "- Emisja głosu<br>- Dykcja oraz Interpretacja<br>- Prezentacja sceniczna<br>-
     Dobór repertuaru<br>- Przygotowanie do konkursów wokalnych, przesłuchań oraz egzaminów."
   media:
-    image: "/uploads/2021/02/28/43915735-530b-40c3-a9c3-e4e7b9df85f2.jpeg"
+    image: "/uploads/2021/02/28/52e242e2-2195-4364-95de-59d2e6a2d070.jpeg"
     alt_text: Customize Blocks
 - template: hero-banner-w-image
   block: hero-2
