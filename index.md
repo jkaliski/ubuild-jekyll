@@ -89,7 +89,7 @@ page_sections:
   content: "- Emisja głosu<br>- Dykcja oraz Interpretacja<br>- Prezentacja sceniczna<br>-
     Dobór repertuaru<br>- Przygotowanie do Konkursów wokalnych, przesłuchań oraz egzaminów."
   media:
-    image: "/uploads/2021/02/28/marius-masalar-rpomlgwai2w-unsplash.jpg"
+    image: "/uploads/2021/02/28/222d368f-314e-466b-a379-89fcbaa662b6.jpeg"
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
