@@ -14,7 +14,7 @@ page_sections:
   - link: "#customize"
     link_text: Nauka Śpiewu
   - link: "#responsive"
-    link_text: Responsive
+    link_text: Kontakt
   - link: "#blocks"
     link_text: Blocks
   cta:
