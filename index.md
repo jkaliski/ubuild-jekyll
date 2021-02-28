@@ -68,7 +68,7 @@ page_sections:
   slug: customize
   headline: <strong>Indywidualna </strong><span class="light">nauka śpiewu.</span>
   content: "- Emisja głosu<br>- Dykcja oraz Interpretacja<br>- Prezentacja sceniczna<br>-
-    Dobór repertuaru<br>- Przygotowanie do Konkursów wokalnych, przesłuchań oraz egzaminów."
+    Dobór repertuaru<br>- Przygotowanie do konkursów wokalnych, przesłuchań oraz egzaminów."
   media:
     image: "/uploads/2021/02/28/43915735-530b-40c3-a9c3-e4e7b9df85f2.jpeg"
     alt_text: Customize Blocks
