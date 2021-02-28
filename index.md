@@ -15,11 +15,9 @@ page_sections:
     link_text: Nauka Śpiewu
   - link: "#responsive"
     link_text: Kontakt
-  - link: "#blocks"
-    link_text: Blocks
   cta:
     url: mailto:musicmaster.bom@gmail.com
-    button_text: Kontakt
+    button_text: E-mail
 - template: hero-banner-w-image
   block: hero-2
   slug: features
