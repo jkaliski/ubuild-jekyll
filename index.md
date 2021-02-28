@@ -12,7 +12,7 @@ page_sections:
   - link: "#swap"
     link_text: O mnie
   - link: "#customize"
-    link_text: Customize
+    link_text: Nauka Śpiewu
   - link: "#responsive"
     link_text: Responsive
   - link: "#blocks"
