@@ -60,7 +60,7 @@ page_sections:
     Montrealu z Montreal Symphony Orchestra pod batuta Kenta Nagano.Koncert ten byl
     kanadyjska premiera<br>tejze opery <br>(...)</span>
   media:
-    image: "/uploads/2021/02/28/f05ec4c3-3539-4eca-a796-94b49a79e4e8.jpeg"
+    image: "/uploads/2021/02/28/5b917bc5-cf3c-422f-a0a2-3431438302b0.jpeg"
     alt_text: Bartłomiej Misiuda
 - template: content-feature
   block: feature-1
