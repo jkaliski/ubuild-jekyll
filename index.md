@@ -13,7 +13,7 @@ page_sections:
     link_text: O mnie
   - link: "#customize"
     link_text: Nauka Śpiewu
-  - link: "#responsive"
+  - link: "#kontakt"
     link_text: Kontakt
   cta:
     url: mailto:musicmaster.bom@gmail.com
