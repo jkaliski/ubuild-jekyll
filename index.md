@@ -105,11 +105,11 @@ page_sections:
     image: "/uploads/2021/02/28/fa0d63a9-7c67-4bec-8a01-32edfc20b014.jpeg"
     alt_text: Notes
   background_image: ''
-  headline: ''
-  content: ''
+  headline: Dane kontaktowe
+  content: 'Bartłomiej Misiuda<br>e-mail: musicmaster.bom@gmail.com<br>tel: 07xxxxxxxxx'
   cta:
-    enabled: false
-    url: ''
-    button_text: ''
+    enabled: true
+    url: 'mailto: musicmaster.bom@gmail.com'
+    button_text: Kontakt
 
 ---
