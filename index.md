@@ -30,7 +30,7 @@ page_sections:
     url: mailto:musicmaster.bom@gmail.com
     button_text: Kontakt
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2021/02/28/06fe5a13-328d-4c33-a018-617e9152369f.jpeg"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
