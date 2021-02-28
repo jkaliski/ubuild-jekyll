@@ -99,5 +99,17 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Bartłomiej Misiuda 2021
+- template: hero-banner-w-image
+  block: hero-2
+  image:
+    image: "/uploads/2021/02/28/fa0d63a9-7c67-4bec-8a01-32edfc20b014.jpeg"
+    alt_text: Notes
+  background_image: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 
 ---
