@@ -22,7 +22,7 @@ page_sections:
   block: hero-2
   slug: features
   headline: "<strong>Bartłomiej Misiuda<br></strong>Baryton. "
-  content: Profesjonalna nauka śpiewu...
+  content: "<strong>Profesjonalna nauka śpiewu. </strong>"
   cta:
     enabled: true
     url: mailto:musicmaster.bom@gmail.com
