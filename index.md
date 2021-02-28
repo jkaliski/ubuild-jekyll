@@ -27,8 +27,8 @@ page_sections:
   content: Profesjonalna nauka śpiewu...
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: mailto:musicmaster.bom@gmail.com
+    button_text: Kontakt
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
