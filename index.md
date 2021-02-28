@@ -83,7 +83,7 @@ page_sections:
     alt_text: Bartłomiej Misiuda
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   slug: customize
   headline: <strong>Indywidualna </strong><span class="light">nauka śpiewu.</span>
   content: "- Emisja głosu<br>- Dykcja oraz Interpretacja<br>- Prezentacja sceniczna<br>-
