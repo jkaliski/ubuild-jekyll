@@ -85,12 +85,11 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
+  headline: <strong>Indywidualna </strong><span class="light">nauka śpiewu.</span>
+  content: "- Emisja głosu<br>- Dykcja oraz Interpretacja<br>- Prezentacja sceniczna<br>-
+    Dobór repertuaru<br>- Przygotowanie do Konkursów wokalnych, przesłuchań oraz egzaminów."
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: "/uploads/2021/02/28/marius-masalar-rpomlgwai2w-unsplash.jpg"
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
