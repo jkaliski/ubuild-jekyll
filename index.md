@@ -30,7 +30,7 @@ page_sections:
   image:
     image: "/uploads/2021/02/28/06fe5a13-328d-4c33-a018-617e9152369f.jpeg"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2021/02/28/3fda4fce-1e42-4c3c-aae1-5ad2c2b555a0.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
