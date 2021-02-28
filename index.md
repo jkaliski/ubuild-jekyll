@@ -98,6 +98,6 @@ page_sections:
   content: 'Bartłomiej Misiuda<br>Polska<br>telefon: 00000000000'
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Stockholm;)
+  content: Bartłomiej Misiuda 2021
 
 ---
