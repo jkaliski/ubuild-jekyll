@@ -10,7 +10,7 @@ page_sections:
   - link: "/"
     link_text: Home
   - link: "#swap"
-    link_text: Swap
+    link_text: O mnie
   - link: "#customize"
     link_text: Customize
   - link: "#responsive"
