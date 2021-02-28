@@ -102,5 +102,10 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: 1-column-text
+  block: one-column-1
+  slug: "#kontakt"
+  headline: Dane Kontaktowe
+  content: 'Bartłomiej Misiuda<br>Polska<br>telefon: 00000000000'
 
 ---
