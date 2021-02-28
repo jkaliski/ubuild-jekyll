@@ -91,14 +91,6 @@ page_sections:
   media:
     image: "/uploads/2021/02/28/43915735-530b-40c3-a9c3-e4e7b9df85f2.jpeg"
     alt_text: Customize Blocks
-- template: 1-column-text
-  block: one-column-1
-  slug: "#kontakt"
-  headline: Dane Kontaktowe
-  content: 'Bartłomiej Misiuda<br>Polska<br>telefon: 00000000000'
-- template: simple-footer
-  block: footer-1
-  content: Bartłomiej Misiuda 2021
 - template: hero-banner-w-image
   block: hero-2
   image:
@@ -111,5 +103,8 @@ page_sections:
     enabled: true
     url: 'mailto: musicmaster.bom@gmail.com'
     button_text: Kontakt
+- template: simple-footer
+  block: footer-1
+  content: Bartłomiej Misiuda 2021
 
 ---
