@@ -58,26 +58,7 @@ page_sections:
     Anglii,Norwegii,Holandii, Belgii,Kanady,Chin.<br><br>W 2008 roku bral udzial w
     koncertowym wykonaniu opery "Tannhauser" R.Wagnera (Wolfram von Eschenbach) w
     Montrealu z Montreal Symphony Orchestra pod batuta Kenta Nagano.Koncert ten byl
-    kanadyjska premiera<br>tejze opery <br><br>Na polu muzyki wspolczesnej wykonywal
-    utwory Luki Lombardiego (Luca Lombardi) m.in "Un Oratorio Materialistico" oraz
-    Siegfrieda Matthusa podczas festiwalu muzyki XXI wieku w Saarbrucken(2002)<br>Bral
-    udzial w swiatowej praprmierze opery X. Deyera "Slepcy" (les Avugles ) napodstawie
-    dramatu "Slepcy" Meterlincka, pod dyrekcja </span><span class="s5">G.Tourniaire
-    paryskim Theatre Gérard Philipe de Saint-Denis, </span><span class="s6">paryskiej
-    Opéra Bastille oraz londynskim Almeida Theater (2006)</span><span class="s3">.</span><span
-    class="s5">W sezonie 2009/10 w paryskiej Opera Garnier wykonywal rowniez partie
-    Le Forcheron we wspolczesnej wersji opery "Faust" Philippe'a Fenelon pod dyrekcja
-    Bernharda Kontarsky'iego</span><span class="s3"><br></span><span class="s5"><br>Bartlomiej
-    Misiuda ceniony jest rowniez jako interpretator piesni zwlaszcza niemieckiej liryki
-    wokalnej (piesni Schuberta, Schumanna, Brahmsa, Mahlera, Wolfa etc.)</span><span
-    class="s3"><br></span><span class="s5">W 2008 roku wykonal wraz z orkiestra Opery
-    Paryskiej pod dyr. Vello Pahn'a cykl "Lieder eines fahrenden Gesellen" Mahlera,
-    bedacy przypomnieniem najznamienitszych choreografii M.Bejarta</span><span class="s3"><br></span><span
-    class="s5">(Hommage à Maurice Béjart). </span><span class="s3"><br></span><span
-    class="s5"><br><br>Wraz z zespolem Opery Baltyckiej w Gdansku dokonal nagrania
-    <br></span><span class="s6">opery M. Sikory "Madame Curie" ( wydawnictwo DUX)
-    majacej swa </span><span class="s5"><br>swiatowa prapremiere w 2012 w paryskiej
-    siedzibie UNESCO.</span>
+    kanadyjska premiera<br>tejze opery <br>(...)</span>
   media:
     image: "/uploads/2021/02/28/f05ec4c3-3539-4eca-a796-94b49a79e4e8.jpeg"
     alt_text: Bartłomiej Misiuda
