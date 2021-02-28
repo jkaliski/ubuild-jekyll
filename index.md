@@ -28,8 +28,8 @@ page_sections:
     url: mailto:musicmaster.bom@gmail.com
     button_text: Kontakt
   image:
-    image: "/uploads/2021/02/28/06fe5a13-328d-4c33-a018-617e9152369f.jpeg"
-    alt_text: Product Shot
+    image: "/uploads/2021/02/28/d4585c04-d511-47e2-a849-09411c22123f.jpeg"
+    alt_text: Portrait Bartłomiej Misiuda
   background_image: "/uploads/2021/02/28/3fda4fce-1e42-4c3c-aae1-5ad2c2b555a0.png"
 - template: content-feature
   block: feature-1
