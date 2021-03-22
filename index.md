@@ -36,29 +36,16 @@ page_sections:
   media_alignment: Left
   slug: swap
   headline: "<strong>Bartłomiej Misiuda. <br></strong><em>Baryton</em>"
-  content: <span class="s3">Pochodzi z Poznania <br><br>W latach 1995-2001 student
-    Wydzialu Wokalno-Aktorskiego Akademii Muzycznej w im. I.J Paderewskiego w Poznaniu(A.Ogorkiewicz)
-    oraz Akademii Muzycznej im K.Lipinskiego we Wroclawiu (prof. Christian Elssner)
-    u ktorego w latach 2001-2003 odbyl</span><span class="s4">studia podyplomowe w
-    HFM K.M von Webber Dresden</span><span class="s3"><br><br>Dwukrotnie zapraszany
-    na letni Festiwal Operowy Kammeroper Schloss Rheinsberg (2000-2001)<br>W sezonie
-    2004-2005 czlonek zespolu Staatstheater Nurnberg a w sezonie 2005-2006 jako pierwszy
-    Polak -Atelier Liryque</span><span class="s4"> Opera National de Paris</span><span
-    class="s3"><br><br>Finalista oraz laureat nagrod specjalnych podczas Konkursow
-    Wokalnych w Dusznikach-Zdroju (2000) oraz Belvedere w Wiedniu (2007)<br><br>Wystepowal
-    pod batuta takich dyrygentow jak Seji Ozawa, Kent Nagano, Dennis Russel Davis,
-    Thomas Hengelbrock, Sylvain Cambeling,Hartmut Haenchen, J.M Florencio,Tadeusz
-    Kozlowski,Bernhard Kontarsky,</span><span class="s5">Guillaume Tourniaire, Philippe
-    Augin, Wojciech Michniewski, Piotr Wajrak, Tomasz Tokarczyk,Andrij Yurkevitch,Ewa
-    Michnik, Gabriel Chmura.</span><span class="s3"><br> <br>Pod kierunkiem rezyserow
-    jak Robert Carsen, Robert Wilson,Luc Bondi, StevenTaylor, Karl Ernst i Ursel Hermanns,Hinrich
-    Horstkotte, Krystyna Janda, Krzysztof Warlikowski,Michal Znaniecki, Dominique
-    Pitoiset, Pet Halmen, MarcPaquien Andre Engel, Marek Weiss, Gilbert Deflo<br><br>Wystepowal
-    w teatrach i na scenach koncertowych m.in Polski, Niemiec,Wegier, Austrii, Francji,
-    Anglii,Norwegii,Holandii, Belgii,Kanady,Chin.<br><br>W 2008 roku bral udzial w
-    koncertowym wykonaniu opery "Tannhauser" R.Wagnera (Wolfram von Eschenbach) w
-    Montrealu z Montreal Symphony Orchestra pod batuta Kenta Nagano.Koncert ten byl
-    kanadyjska premiera<br>tejze opery <br>(...)</span>
+  content: "Bartek uczy śpiewu\U0001F604 <br><br>To dobra wiadomość nie tylko dla
+    profesjonalistów, amatoròw ale wszystkich którzy chcieliby rozpocząć przygodę
+    ze śpiewem.Moje 20 letnie międzynarodowe doświadczenie zawodowe na scenach operowych
+    oraz koncertowych pozwala mi na:- pracę nad rozwojem Twojej techniki śpiewu-dobòr
+    odpowiedniego repertuaru-prace nad interpretacją-przygotowanie Cię do egzaminów
+    wstępnych/ wystąpień publicznych-przekazanie Ci sposobów radzenia sobie z tremą-
+    oferuję moja obecność i pomoc podczas nagrań studyjnychZnajomość języków obcych
+    <a href=\"http://m.in/\">m.in</a><span class=\"Apple-converted-space\"> </span>ang/niem/
+    fr oraz repertuaru, pozwoli mi pomòc pokonac Ci trudności i poznać niuanse prawidłowej
+    wymowy podczas procesu śpiewu w danym języku."
   media:
     image: "/uploads/2021/02/28/5b917bc5-cf3c-422f-a0a2-3431438302b0.jpeg"
     alt_text: Bartłomiej Misiuda
