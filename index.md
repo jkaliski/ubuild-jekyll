@@ -35,17 +35,16 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: "<strong>Bartłomiej Misiuda. <br></strong><em>Baryton</em>"
-  content: "Bartek uczy śpiewu\U0001F604 <br><br>To dobra wiadomość nie tylko dla
-    profesjonalistów, amatoròw ale wszystkich którzy chcieliby rozpocząć przygodę
-    ze śpiewem.Moje 20 letnie międzynarodowe doświadczenie zawodowe na scenach operowych
-    oraz koncertowych pozwala mi na:- pracę nad rozwojem Twojej techniki śpiewu-dobòr
-    odpowiedniego repertuaru-prace nad interpretacją-przygotowanie Cię do egzaminów
-    wstępnych/ wystąpień publicznych-przekazanie Ci sposobów radzenia sobie z tremą-
-    oferuję moja obecność i pomoc podczas nagrań studyjnychZnajomość języków obcych
-    <a href=\"http://m.in/\">m.in</a><span class=\"Apple-converted-space\"> </span>ang/niem/
-    fr oraz repertuaru, pozwoli mi pomòc pokonac Ci trudności i poznać niuanse prawidłowej
-    wymowy podczas procesu śpiewu w danym języku."
+  headline: "<strong>Bartek uczy śpiewu\U0001F604</strong>"
+  content: To dobra wiadomość nie tylko dla profesjonalistów, amatoròw ale wszystkich
+    którzy chcieliby rozpocząć przygodę ze śpiewem.Moje 20 letnie międzynarodowe doświadczenie
+    zawodowe na scenach operowych oraz koncertowych pozwala mi na:- pracę nad rozwojem
+    Twojej techniki śpiewu-dobòr odpowiedniego repertuaru-prace nad interpretacją-przygotowanie
+    Cię do egzaminów wstępnych/ wystąpień publicznych-przekazanie Ci sposobów radzenia
+    sobie z tremą- oferuję moja obecność i pomoc podczas nagrań studyjnychZnajomość
+    języków obcych <a href="http://m.in/">m.in</a><span class="Apple-converted-space">
+    </span>ang/niem/ fr oraz repertuaru, pozwoli mi pomòc pokonac Ci trudności i poznać
+    niuanse prawidłowej wymowy podczas procesu śpiewu w danym języku.
   media:
     image: "/uploads/2021/02/28/5b917bc5-cf3c-422f-a0a2-3431438302b0.jpeg"
     alt_text: Bartłomiej Misiuda
